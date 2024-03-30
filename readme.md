@@ -1,6 +1,4 @@
-Based on your script, here's a comprehensive README that you might consider for your project:
 
----
 
 # Bybit Unified Trading Bot
 
