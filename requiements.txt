@@ -1,0 +1,4 @@
+bybit
+pandas
+python-dotenv
+mplfinance
